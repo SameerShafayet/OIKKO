@@ -1,4 +1,4 @@
-# oikko
+# OIKKO
 
 A crowdfunding platform where users can like, follow and donate to their desired campaigns\
 Features:
